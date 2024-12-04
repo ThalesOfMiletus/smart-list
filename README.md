@@ -32,9 +32,9 @@ O **SmartList** é um aplicativo de gerenciamento de tarefas com integração de
 - Python 3
 - SQLite (banco de dados)
 
-### Integrações
+### Integrações Futuras
 - Biblioteca `react-native-document-picker` para anexar arquivos.
-- `react-native-audio-recorder-player` para gravação de áudio (opcional).
+- `react-native-audio-recorder-player` para gravação de áudio.
 
 ---
 
@@ -110,26 +110,25 @@ O **SmartList** é um aplicativo de gerenciamento de tarefas com integração de
    git clone <repositorio>
    cd frontend
 
-## Instale as dependências
+### Instale as dependências
 
     ```bash
     npm install
 
-  3.Inicie o projeto:
-          
+3. Inicie o projeto:
       ```bash
       npx expo start
 
-## Backend
+### Backend
 
 Certifique-se de ter o Python 3 instalado.
 
-1.Instale as dependências:
+1.   Instale as dependências:
 
     ```bash
     pip install -r requirements.txt
 
-2.Aplique as migrações:
+2.  Aplique as migrações:
 
     ```bash
     python manage.py migrate
@@ -139,7 +138,7 @@ Inicie o servidor:
     ```bash
     python manage.py runserver
 
-7. Estrutura de Dados
+###Estrutura de Dados
 
 Modelo de Usuário
 
