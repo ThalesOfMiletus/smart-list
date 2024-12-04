@@ -111,8 +111,6 @@ O **SmartList** é um aplicativo de gerenciamento de tarefas com integração de
    cd frontend
 
 ### Instale as dependências
-
-    ```bash
     npm install
 
 3. Inicie o projeto:
